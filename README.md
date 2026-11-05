@@ -1,49 +1,45 @@
-
-
-# Hi there, I'm Sadhvi Dwivedi 👋
+# 👋 Hi, I'm Sadhvi Dwivedi
 
 ### Aspiring Data Analyst | Business Analytics Enthusiast
 
-Welcome to my GitHub profile!
-
-I'm a B.A. graduate passionate about Data Analytics, Business Intelligence and transforming data into meaningful insights.
+I am passionate about Data Analytics, Data Visualization and Business Intelligence. I enjoy exploring data and turning it into meaningful insights.
 
 ---
 
 ## 👩‍💻 About Me
 
-- 📊 Exploring Data Analytics and Business Intelligence.
-- 📚 Learning SQL, Python, Excel and Power BI.
-- 📈 Interested in data visualization and business insights.
-- 🎯 Aspiring Data Analyst.
-- 🌱 Learning something new every day!
+- 🎓 B.A. Graduate
+- 📊 Aspiring Data Analyst
+- 🌱 Learning SQL, Python and Power BI
+- 💡 Interested in Business Intelligence and Data Visualization
+- 🎯 Building practical analytics projects
 
 ## 🛠️ Technical Toolkit
 
-| Category | Tools & Technologies |
+| Category | Skills |
 |---|---|
 | Spreadsheets | Advanced Excel, Pivot Tables |
 | Database | SQL, MySQL |
 | Programming | Python, Pandas, NumPy |
 | Visualization | Power BI, Tableau |
-| Statistics | Descriptive Statistics, Data Analysis |
+| Statistics | Descriptive Statistics, Regression |
 
-## 📊 Featured Analytics Projects
+## 📊 Featured Projects
 
-### 1. Excel Dashboard
-- Data cleaning and analysis.
-- Pivot Tables and charts.
-- KPI Cards and slicers.
+### 1. Excel Analytics Dashboard
+- Data cleaning
+- Pivot Tables and charts
+- KPI cards and slicers
 
-### 2. SQL Analysis
-- SQL queries and joins.
-- Aggregate functions.
-- Subqueries and data analysis.
+### 2. SQL Data Analysis
+- SQL queries and JOINs
+- Subqueries and aggregations
+- Business data analysis
 
 ### 3. Power BI Dashboard
-- Data visualization.
-- Interactive reports.
-- Business performance analysis.
+- Data modeling
+- Interactive reports
+- Business performance visualization
 
 ## 🎓 Education & Certifications
 
@@ -53,20 +49,8 @@ I'm a B.A. graduate passionate about Data Analytics, Business Intelligence and t
 ## 🤝 Connect With Me
 
 - GitHub: https://github.com/SadhviDwivedi
-- LinkedIn: Add your LinkedIn profile URL here.
+- LinkedIn: Add your LinkedIn URL
 
 ---
+⭐ Thanks for visiting my profile!
 
-⭐ Thank you for visiting my profile!
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
