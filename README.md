@@ -64,6 +64,27 @@ I am passionate about Data Analytics, Data Visualization and Business Intelligen
 
 ---
 
+## 📊 Featured Analytics Projects
+
+### 1. Excel Sales Dashboard
+- Data cleaning and analysis
+- Pivot Tables and charts
+- KPI Cards and slicers
+
+### 2. SQL Data Analysis
+- Data extraction using SQL
+- JOINs and subqueries
+- Business data analysis
+
+### 3. Power BI Dashboard
+- Data modeling
+- Interactive visualizations
+- Business performance insights
+
+---
+
+---
+
 ## 📈 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SadhviDwivedi&show_icons=true&theme=tokyonight)
