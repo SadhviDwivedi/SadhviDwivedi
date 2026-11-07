@@ -1,55 +1,18 @@
-# 👋 Hi, I'm Sadhvi Dwivedi
+# 💫 About Me:
+# 👋 Hi, I'm Sadhvi Dwivedi<br><br>### Aspiring Data Analyst | Business Analytics Enthusiast<br><br>I am passionate about Data Analytics, Data Visualization and Business Intelligence. I enjoy exploring data and turning it into meaningful insights.<br><br>---<br><br>## 👩‍💻 About Me<br><br>- 🎓 B.A. Graduate<br>- 📊 Aspiring Data Analyst<br>- 🌱 Learning SQL, Python and Power BI<br>- 💡 Interested in Business Intelligence and Data Visualization<br>- 🎯 Building practical analytics projects<br><br>## 🛠️ Technical Toolkit<br><br>| Category | Skills |<br>|---|---|<br>| Spreadsheets | Advanced Excel, Pivot Tables |<br>| Database | SQL, MySQL |<br>| Programming | Python, Pandas, NumPy |<br>| Visualization | Power BI, Tableau |<br>| Statistics | Descriptive Statistics, Regression |<br><br>## 📊 Featured Projects<br><br>### 1. Excel Analytics Dashboard<br>- Data cleaning<br>- Pivot Tables and charts<br>- KPI cards and slicers<br><br>### 2. SQL Data Analysis<br>- SQL queries and JOINs<br>- Subqueries and aggregations<br>- Business data analysis<br><br>### 3. Power BI Dashboard<br>- Data modeling<br>- Interactive reports<br>- Business performance visualization<br><br>## 🎓 Education & Certifications<br><br>- B.A. Graduate<br>- Add your completed certifications here.<br><br>## 🤝 Connect With Me<br><br>- GitHub: https://github.com/SadhviDwivedi<br>- LinkedIn: Add your LinkedIn URL<br><br>---<br>⭐ Thanks for visiting my profile!
 
-### Aspiring Data Analyst | Business Analytics Enthusiast
 
-I am passionate about Data Analytics, Data Visualization and Business Intelligence. I enjoy exploring data and turning it into meaningful insights.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_khuxhi1.1) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/kdwivedi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/khushiidwivedii) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Khushii Dwivedii) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khushiidwivediisdr@gmail.com) 
 
----
-
-## 👩‍💻 About Me
-
-- 🎓 B.A. Graduate
-- 📊 Aspiring Data Analyst
-- 🌱 Learning SQL, Python and Power BI
-- 💡 Interested in Business Intelligence and Data Visualization
-- 🎯 Building practical analytics projects
-
-## 🛠️ Technical Toolkit
-
-| Category | Skills |
-|---|---|
-| Spreadsheets | Advanced Excel, Pivot Tables |
-| Database | SQL, MySQL |
-| Programming | Python, Pandas, NumPy |
-| Visualization | Power BI, Tableau |
-| Statistics | Descriptive Statistics, Regression |
-
-## 📊 Featured Projects
-
-### 1. Excel Analytics Dashboard
-- Data cleaning
-- Pivot Tables and charts
-- KPI cards and slicers
-
-### 2. SQL Data Analysis
-- SQL queries and JOINs
-- Subqueries and aggregations
-- Business data analysis
-
-### 3. Power BI Dashboard
-- Data modeling
-- Interactive reports
-- Business performance visualization
-
-## 🎓 Education & Certifications
-
-- B.A. Graduate
-- Add your completed certifications here.
-
-## 🤝 Connect With Me
-
-- GitHub: https://github.com/SadhviDwivedi
-- LinkedIn: Add your LinkedIn URL
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=SadhviDwivedi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=SadhviDwivedi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SadhviDwivedi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-⭐ Thanks for visiting my profile!
+[![](https://komarev.com/ghpvc/?username=SadhviDwivedi&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
